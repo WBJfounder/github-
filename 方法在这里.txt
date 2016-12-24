@@ -1,0 +1,8 @@
+1.首先打开http://tool.chinaz.com/dns 查询域名解析
+2.在请输入域名中输入github.com  点击检测
+3.选择TTL值最低的IP和域名复制
+ 比如：192.30.253.113   github.com
+4.打开自己的hosts文件在最后添加上此ip和域名
+5.win8或win10无法修改hosts看下面网址修改即可
+ http://jingyan.baidu.com/article/cbcede073380fb02f40b4d84.html
+步骤：截图在图片文件夹
